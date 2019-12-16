@@ -4,7 +4,8 @@
 ### Description
 Es una aplicación que muestra la vista de una calculadora.
 
-###Visuals
+### Visuals
+![Calculadora_Layout](https://user-images.githubusercontent.com/55455793/70880855-6724e400-1f7f-11ea-894f-2e56a1dd35a8.jpeg)
 
 
 ### Installation
@@ -13,7 +14,7 @@ la forma de instalación que se utilizó, fue cambiar el celular a modo desarrol
 la aplicación se ejecute directamente en el celular.
 
 
-###Support
+### Support
 Si de alguna forma la app tiene fallos o mejoras que crean necesarias,
 favor de contactar el siguiente correo: alexiavcastaneda30@gmail.com
 
